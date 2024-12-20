@@ -1,18 +1,18 @@
 # Proceso de Ciencia de Datos
 
-## [1. Comprensión del Negocio](files/doc.md)
+## [1. Comprensión del Negocio](data_science/compresion-del-negocio.md)
 
 **Objetivo**: Definir el problema u oportunidad, identificar metas y objetivos empresariales.
 
 **Acciones clave**: Entender las necesidades de los interesados (stakeholders) y alinear las expectativas con los resultados del proyecto.
 
-## [2. Comprensión de los Datos](files/doc.md)
+## [2. Comprensión de los Datos](data_science/comprension-de-los-datos.md)
 
 **Objetivo**: Recolectar y explorar los datos disponibles.
 
 **Acciones clave**: Evaluar calidad, cantidad y características de los datos. Identificar las fuentes relevantes y determinar si los datos son adecuados para resolver el problema.
 
-## [3. Preparación de los Datos](files/doc.md)
+## [3. Preparación de los Datos](preparacion-de-los-datos/.md)
 
 **Objetivo**: Limpiar, transformar y preprocesar los datos para que sean aptos para el análisis.
 
@@ -21,7 +21,7 @@
 - Tratar el ruido y los valores atípicos.
 - Seleccionar características relevantes.
 
-## [4. Modelado](files/doc.md)
+## [4. Modelado](data_science/modelado.md)
 
 **Objetivo**: Extraer patrones e insights mediante técnicas como minería de datos, aprendizaje automático o análisis estadístico.
 
@@ -29,7 +29,7 @@
 - Construir y evaluar modelos.
 - Seleccionar los modelos más adecuados para el problema.
 
-## [5. Evaluación](files/doc.md)
+## [5. Evaluación](data_science/evaluacion.md)
 
 **Objetivo**: Medir el rendimiento de los modelos y su capacidad para cumplir con los objetivos del negocio.
 
@@ -37,7 +37,7 @@
 - Utilizar métricas como precisión, recall, F1-score o R² para evaluar los resultados.
 - Validar los modelos con las partes interesadas.
 
-## [6. Despliegue](files/doc.md)
+## [6. Despliegue](data_science/despliegue.md)
 
 **Objetivo**: Integrar los modelos seleccionados en los sistemas y procesos empresariales.
 
@@ -45,7 +45,7 @@
 - Implementar modelos en producción.
 - Configurar procedimientos de monitoreo y mantenimiento.
 
-## [7. Operación](files/doc.md)
+## [7. Operación](data_science/operacion.md)
 
 **Objetivo**: Monitorear y mejorar continuamente el rendimiento de los modelos en producción.
 
@@ -54,7 +54,7 @@
 - Mantenimiento del modelo: Actualizar y ajustar los modelos para adaptarse a cambios en los datos o requerimientos.
 - Cumplimiento normativo: Asegurar que los modelos cumplan con regulaciones y estándares éticos.
 
-## [8. Refinamiento](files/doc.md)
+## [8. Refinamiento](data_science/refinamiento.md)
 
 **Objetivo**: Iterar y mejorar continuamente el proceso de ciencia de datos.
 
